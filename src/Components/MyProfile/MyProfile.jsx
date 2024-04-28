@@ -24,9 +24,9 @@ const MyProfile = () => {
     <div className="transparent-container">
       <div className="nav-buttons">
         <a href="#" className="nav-button">HOME</a>
-        <a href="#" className="nav-button">PAGE</a>
+        <a href="#" className="nav-button">aBOUT us</a>
         <a href="#" className="nav-button">OUR TEAM</a>
-        <a href="#" className="nav-button">CONTACT</a>
+        <a href="#" className="nav-button">MY PROFILE</a>
       </div>
 
       <div className="container">
